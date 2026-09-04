@@ -120,5 +120,5 @@ My long-term focus is **Web3**, and building a strong analytics engineering foun
 This project is a stepping stone: as I grow, my focus will increasingly shift toward Web3 analytics, but the skills built here (PostgreSQL, ETL design, dimensional modelling) form the base everything else will sit on.
 
 **Let's connect:**
-- 🐦 X (Twitter): [@chima]
+- 🐦 X (Twitter): [@chima_grind]
 - 💻 GitHub: [https://github.com/franklin238]
